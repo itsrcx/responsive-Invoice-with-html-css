@@ -1,0 +1,74 @@
+.header{
+    margin: 2px;
+    width: 100%;
+    border-collapse: collapse;
+    border: 1.5px solid black;
+
+}
+.date{
+    text-align: center;
+}
+.img{
+    width: 200px;
+    height: 100px;
+}
+.inno_no{
+    text-align: center;
+    color: red;
+}
+.head {
+    background-color:blue;
+    text-align: center;
+    border-radius: 5px;    
+}
+th{
+    color: white;
+}
+td{
+    border: 1px solid;
+}
+.table1 {
+    margin: 2px;
+    border: 1.5px solid black;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.table2 {
+    margin: 2px;
+    border: 1.5px solid black;
+    width: 100%;
+    border-collapse: collapse;
+}
+.table3{
+    margin: 2px;
+    border: 1px solid black;
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+.agree{
+    color: green;
+}
+.table4{
+    width: 100%;
+    border: hidden;
+    border-collapse: collapse;
+    margin: 5px;
+    
+}
+.table5{
+    width: 100%;
+    border: hidden;
+    border-collapse: collapse;
+    
+
+    }
+
+.tr .td{
+    border: hidden;
+    font-size: 10px;
+    text-align: center;
+    
+}
